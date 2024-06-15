@@ -21,7 +21,6 @@ public class MovieController {
     public String home(Model model) {
         List<Movie> movies = movieService.getPopularMovies();
         model.addAttribute("movies", movies);
-        System.out.println(movies);
         return "home";
     }
 }
