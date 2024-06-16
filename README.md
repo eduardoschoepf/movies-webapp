@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1--SNAPSHOT-brightgreen.svg)
-![Build Status](https://github.com/eduardoschoepf/movies-webapp/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/eduardoschoepf/movies-webapp/actions/workflows/jekyll-gh-pages.yml/badge.svg)
 
 ## Table of Contents
 - [Introduction](#introduction)
